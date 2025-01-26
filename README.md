@@ -1,2 +1,3 @@
-# Project-S
-This is my first repository
+# Project-s
+This is my first repository.
+Author-Abhishek Anand
